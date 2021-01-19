@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "955453260585",
+    "firebase_url": "https://wisataandalas-5ec65-default-rtdb.firebaseio.com",
+    "project_id": "wisataandalas-5ec65",
+    "storage_bucket": "wisataandalas-5ec65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955453260585:android:cf8c12ef6fbb9dd6e4ad38",
+        "android_client_info": {
+          "package_name": "com.alkhairunasriyuska.wisataandalas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955453260585-31plvt2mhr7h8ntr6tf40dtv92mic9q4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alkhairunasriyuska.wisataandalas",
+            "certificate_hash": "6571044258919f8380ac54a338f528f7caaf64d9"
+          }
+        },
+        {
+          "client_id": "955453260585-84can9h7nrcl3jgddbe80v0t4296nh50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7JJmP2rUPpbJUfrMIY0AjTau4VM6nnp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955453260585-84can9h7nrcl3jgddbe80v0t4296nh50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

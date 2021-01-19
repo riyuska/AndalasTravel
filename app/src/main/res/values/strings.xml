@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WisataAndalas</string>
+    <string name="slogan">Wisata Jadi Lebih Asyik</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="email_label">Email Addres</string>
+    <string name="label_continue">CONTINUE</string>
+    <string name="name_label">Name</string>
+    <string name="bio_label">Your Passion?</string>
+    <string name="explore">EXPLORE NOW</string>
+</resources>
